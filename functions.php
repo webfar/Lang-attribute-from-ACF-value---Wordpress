@@ -10,7 +10,7 @@ function custom_lang_attributes($output)
 
         $language_codes = array(
             'Dansk' => 'da-DK',
-            'English' => 'en-GB',
+            'English' => 'en-US',
             'Svenska' => 'sv-SE',
             'Norsk' => 'no-NO'
         );
