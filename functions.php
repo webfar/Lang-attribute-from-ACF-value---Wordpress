@@ -1,7 +1,6 @@
 <?php
 function custom_lang_attributes($output)
 {
-
     global $post;
     $default_lang_code = 'en-US';
 
